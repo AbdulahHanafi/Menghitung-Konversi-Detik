@@ -19,6 +19,7 @@ codingan program lengkap
 
     }
     
-    Hasil Program
     
-    ![igm](https://github.com/AbdulahHanafi/Menghitung-Konversi-
+ Hasil Program
+    
+ ![img](https://github.com/AbdulahHanafi/Menghitung-Konversi-Detik/blob/master/menghitung%20detik.png?raw=true)
